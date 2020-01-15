@@ -1,0 +1,42 @@
+﻿///$tab Main
+SET ThousandSep=',';
+SET DecimalSep='.';
+SET MoneyThousandSep=',';
+SET MoneyDecimalSep='.';
+SET MoneyFormat='$#,##0.00;($#,##0.00)';
+SET TimeFormat='h:mm:ss TT';
+SET DateFormat='D/M/YYYY';
+SET TimestampFormat='D/M/YYYY h:mm:ss[.fff] TT';
+SET MonthNames='Jan;Feb;Mar;Apr;May;Jun;Jul;Aug;Sep;Oct;Nov;Dec';
+SET DayNames='Mon;Tue;Wed;Thu;Fri;Sat;Sun';
+SET LongMonthNames='January;February;March;April;May;June;July;August;September;October;November;December';
+SET LongDayNames='Monday;Tuesday;Wednesday;Thursday;Friday;Saturday;Sunday';
+SET FirstWeekDay=6;
+SET BrokenWeeks=1;
+SET ReferenceDay=0;
+SET FirstMonthOfYear=1;
+SET CollationLocale='en-SG';
+
+Data:
+LOAD * INLINE [
+    Outlet, Material, Batch, SOH, SoldQty
+    T2, VKC-20840078, BLACK_M, 20, 13
+    T2, VKC-20840078, LTPINK_M, 10, 10
+    T2, VKC-20840078, PEWTER_M, 7, 6
+    T2, VKC-70840077, BLACK_S, 5, 5
+    T2, VKC-70840077, NUDE_S, 3, 2
+    T2, VKC-70840077, RED_S, 12, 13
+    WH, VKC-20840078, BLACK_M, 20, 13
+    WH, VKC-20840078, LTPINK_M, 10, 10
+    WH, VKC-20840078, PEWTER_M, 7, 6
+    WH, VKC-70840077, BLACK_S, 5, 5
+    WH, VKC-70840077, NUDE_S, 3, 2
+    WH, VKC-70840077, RED_S, 12, 13
+];
+
+Dim:
+LOAD * Inline [
+Dim
+1
+2
+];
