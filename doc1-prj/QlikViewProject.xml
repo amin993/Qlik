@@ -1,4 +1,4 @@
-﻿<!-- Last project change: 2020-01-16 09:23:25 (2020-01-16 08:23:25) -->
+﻿<!-- Last project change: 2020-01-16 10:34:16 (2020-01-16 09:34:16) -->
 <PrjQlikViewProject>
   <GLOBAL>
     <AllPropertiesFileName>AllProperties.xml</AllPropertiesFileName>
@@ -17,8 +17,8 @@
         <PrjFrameParentDef>
           <ObjectId>Document\CH01</ObjectId>
           <Rect>
-            <Left>1075</Left>
-            <Top>147</Top>
+            <Left>1050</Left>
+            <Top>128</Top>
             <Width>1981</Width>
             <Height>678</Height>
           </Rect>
@@ -34,10 +34,27 @@
         <PrjFrameParentDef>
           <ObjectId>Document\TB01</ObjectId>
           <Rect>
-            <Left>213</Left>
-            <Top>147</Top>
+            <Left>188</Left>
+            <Top>172</Top>
             <Width>1500</Width>
             <Height>900</Height>
+          </Rect>
+          <MinimizedRect>
+            <Left>0</Left>
+            <Top>0</Top>
+            <Width>297</Width>
+            <Height>102</Height>
+          </MinimizedRect>
+          <ShowMode>0</ShowMode>
+          <ZedLevel>0</ZedLevel>
+        </PrjFrameParentDef>
+        <PrjFrameParentDef>
+          <ObjectId>Document\LB01</ObjectId>
+          <Rect>
+            <Left>172</Left>
+            <Top>106</Top>
+            <Width>238</Width>
+            <Height>344</Height>
           </Rect>
           <MinimizedRect>
             <Left>0</Left>
@@ -49,12 +66,12 @@
           <ZedLevel>0</ZedLevel>
         </PrjFrameParentDef>
         <PrjFrameParentDef>
-          <ObjectId>Document\LB01</ObjectId>
+          <ObjectId>Document\CS01_011832951</ObjectId>
           <Rect>
-            <Left>197</Left>
-            <Top>850</Top>
-            <Width>238</Width>
-            <Height>344</Height>
+            <Left>2597</Left>
+            <Top>128</Top>
+            <Width>1050</Width>
+            <Height>281</Height>
           </Rect>
           <MinimizedRect>
             <Left>0</Left>
