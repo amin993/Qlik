@@ -1,5 +1,4 @@
-﻿<!-- Last project change: 2020-01-22 15:51:26 (2020-01-22 14:51:26) -->
-<PrjQlikViewProject>
+﻿<PrjQlikViewProject>
   <GLOBAL>
     <AllPropertiesFileName>AllProperties.xml</AllPropertiesFileName>
     <DocBinaryFileName>DocBinary.dat</DocBinaryFileName>
@@ -51,8 +50,8 @@
         <PrjFrameParentDef>
           <ObjectId>Document\TB01</ObjectId>
           <Rect>
-            <Left>1047</Left>
-            <Top>688</Top>
+            <Left>94</Left>
+            <Top>491</Top>
             <Width>1500</Width>
             <Height>900</Height>
           </Rect>
@@ -136,8 +135,8 @@
         <PrjFrameParentDef>
           <ObjectId>Document\LB02_048643676</ObjectId>
           <Rect>
-            <Left>4078</Left>
-            <Top>634</Top>
+            <Left>2597</Left>
+            <Top>434</Top>
             <Width>450</Width>
             <Height>900</Height>
           </Rect>
