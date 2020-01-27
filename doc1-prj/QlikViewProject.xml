@@ -50,8 +50,8 @@
         <PrjFrameParentDef>
           <ObjectId>Document\TB01</ObjectId>
           <Rect>
-            <Left>94</Left>
-            <Top>491</Top>
+            <Left>456</Left>
+            <Top>697</Top>
             <Width>1500</Width>
             <Height>900</Height>
           </Rect>
@@ -121,23 +121,6 @@
             <Left>456</Left>
             <Top>1444</Top>
             <Width>1400</Width>
-            <Height>900</Height>
-          </Rect>
-          <MinimizedRect>
-            <Left>0</Left>
-            <Top>0</Top>
-            <Width>297</Width>
-            <Height>102</Height>
-          </MinimizedRect>
-          <ShowMode>1</ShowMode>
-          <ZedLevel>0</ZedLevel>
-        </PrjFrameParentDef>
-        <PrjFrameParentDef>
-          <ObjectId>Document\LB02_048643676</ObjectId>
-          <Rect>
-            <Left>2597</Left>
-            <Top>434</Top>
-            <Width>450</Width>
             <Height>900</Height>
           </Rect>
           <MinimizedRect>

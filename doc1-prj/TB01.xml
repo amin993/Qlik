@@ -807,20 +807,20 @@
       <LTableColLayout>
         <Label></Label>
         <Field>
-          <Name>Dim</Name>
+          <Name>$Rows</Name>
           <Type>PRESENT</Type>
         </Field>
         <SortCriteria>
           <SortByState>1</SortByState>
           <SortByFrequency>0</SortByFrequency>
-          <SortByNumeric>1</SortByNumeric>
+          <SortByNumeric>0</SortByNumeric>
           <SortByAscii>0</SortByAscii>
           <SortByLoadOrder>0</SortByLoadOrder>
           <SortByExpression>0</SortByExpression>
           <Expression></Expression>
           <SortByGreyness>0</SortByGreyness>
         </SortCriteria>
-        <ColWidth>72</ColWidth>
+        <ColWidth>116</ColWidth>
         <TextAdjust>0</TextAdjust>
         <NumAdjust>2</NumAdjust>
         <LabelAdjust>0</LabelAdjust>
