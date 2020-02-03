@@ -21,11 +21,7 @@
         <DropShadow>false</DropShadow>
       </CaptionFont>
       <Name>
-<<<<<<< HEAD
-        <v>Tebleau </v>
-=======
         <v>TEST ORA</v>
->>>>>>> master
       </Name>
       <Detached>false</Detached>
       <AllowMinimize>true</AllowMinimize>

@@ -11,7 +11,7 @@
   <SHEETS>
     <PrjSheetProperties>
       <SheetId>Document\SH01</SheetId>
-      <IsActive>true</IsActive>
+      <IsActive>false</IsActive>
       <ChildObjects>
         <PrjFrameParentDef>
           <ObjectId>Document\TX01_854587439</ObjectId>
@@ -133,6 +133,11 @@
           <ZedLevel>0</ZedLevel>
         </PrjFrameParentDef>
       </ChildObjects>
+    </PrjSheetProperties>
+    <PrjSheetProperties>
+      <SheetId>Document\SH02_906829914</SheetId>
+      <IsActive>true</IsActive>
+      <ChildObjects></ChildObjects>
     </PrjSheetProperties>
   </SHEETS>
   <REPORTS></REPORTS>
