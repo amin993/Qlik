@@ -18,8 +18,8 @@
           <Rect>
             <Left>0</Left>
             <Top>0</Top>
-            <Width>3859</Width>
-            <Height>2481</Height>
+            <Width>3872</Width>
+            <Height>2547</Height>
           </Rect>
           <MinimizedRect>
             <Left>0</Left>
@@ -33,7 +33,7 @@
         <PrjFrameParentDef>
           <ObjectId>Document\CH01</ObjectId>
           <Rect>
-            <Left>1050</Left>
+            <Left>459</Left>
             <Top>128</Top>
             <Width>1981</Width>
             <Height>678</Height>
@@ -67,8 +67,8 @@
         <PrjFrameParentDef>
           <ObjectId>Document\LB01</ObjectId>
           <Rect>
-            <Left>1900</Left>
-            <Top>694</Top>
+            <Left>2194</Left>
+            <Top>781</Top>
             <Width>238</Width>
             <Height>344</Height>
           </Rect>
@@ -84,8 +84,8 @@
         <PrjFrameParentDef>
           <ObjectId>Document\CS01_011832951</ObjectId>
           <Rect>
-            <Left>2597</Left>
-            <Top>128</Top>
+            <Left>2266</Left>
+            <Top>125</Top>
             <Width>1050</Width>
             <Height>281</Height>
           </Rect>
