@@ -1,4 +1,5 @@
-﻿<PrjQlikViewProject>
+﻿<!-- Last project change: 2020-02-05 09:06:15 (2020-02-05 08:06:15) -->
+<PrjQlikViewProject>
   <GLOBAL>
     <AllPropertiesFileName>AllProperties.xml</AllPropertiesFileName>
     <DocBinaryFileName>DocBinary.dat</DocBinaryFileName>
@@ -11,7 +12,7 @@
   <SHEETS>
     <PrjSheetProperties>
       <SheetId>Document\SH01</SheetId>
-      <IsActive>false</IsActive>
+      <IsActive>true</IsActive>
       <ChildObjects>
         <PrjFrameParentDef>
           <ObjectId>Document\TX01_854587439</ObjectId>
@@ -132,11 +133,28 @@
           <ShowMode>1</ShowMode>
           <ZedLevel>0</ZedLevel>
         </PrjFrameParentDef>
+        <PrjFrameParentDef>
+          <ObjectId>Document\BU01_434783084</ObjectId>
+          <Rect>
+            <Left>3472</Left>
+            <Top>309</Top>
+            <Width>259</Width>
+            <Height>109</Height>
+          </Rect>
+          <MinimizedRect>
+            <Left>0</Left>
+            <Top>0</Top>
+            <Width>297</Width>
+            <Height>102</Height>
+          </MinimizedRect>
+          <ShowMode>1</ShowMode>
+          <ZedLevel>0</ZedLevel>
+        </PrjFrameParentDef>
       </ChildObjects>
     </PrjSheetProperties>
     <PrjSheetProperties>
       <SheetId>Document\SH02_906829914</SheetId>
-      <IsActive>true</IsActive>
+      <IsActive>false</IsActive>
       <ChildObjects></ChildObjects>
     </PrjSheetProperties>
   </SHEETS>
